@@ -10,7 +10,7 @@ const Home = () => {
             <div className="content-wrapper">
                 <p>Home Page</p>
             </div>
-            <Footer />
+            <Footer /> 
         </div> 
     );
 };
